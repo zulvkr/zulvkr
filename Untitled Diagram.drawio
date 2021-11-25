@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2021-11-25T14:35:24.940Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" version="15.0.3" etag="u1RPOaREzbQ9W4TOTNhk" type="github"><diagram id="biNQedBPSxyOYzNM9LYE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-11-25T16:59:43.374Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="o23rmVlHN4UnenWCrWXE" version="15.0.3" type="github">
+  <diagram id="biNQedBPSxyOYzNM9LYE" name="Page-1">
+    <mxGraphModel dx="1021" dy="504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Mx8b_KnRJ39ZjPCMfpyR-1" value="Initial vuex state&lt;br&gt;nullish / falsy data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Mx8b_KnRJ39ZjPCMfpyR-2" value="if param not populated yet&lt;br&gt;commit router params in stay/:location to vuex&lt;br&gt;if not in stay/:location, use default data&lt;br&gt;&lt;br&gt;if vuex already populated (not nullish/falsy)&lt;br&gt;do nothing? is it possible router don&#39;t match vuex?&lt;br&gt;&lt;br&gt;&lt;b&gt;event: mounted in /home and stay/:location, any route that has component that need stay param.&lt;br&gt;Should be called at initial load, so in default.vue&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="195" y="250" width="390" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Mx8b_KnRJ39ZjPCMfpyR-3" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Mx8b_KnRJ39ZjPCMfpyR-1" target="Mx8b_KnRJ39ZjPCMfpyR-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="190" as="sourcePoint" />
+            <mxPoint x="320" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mx8b_KnRJ39ZjPCMfpyR-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mx8b_KnRJ39ZjPCMfpyR-4" target="Mx8b_KnRJ39ZjPCMfpyR-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mx8b_KnRJ39ZjPCMfpyR-4" value="commit param to vuex&lt;br&gt;&lt;br&gt;&lt;b&gt;event: stay param updated in each responsible component&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="500" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Mx8b_KnRJ39ZjPCMfpyR-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mx8b_KnRJ39ZjPCMfpyR-8" target="Mx8b_KnRJ39ZjPCMfpyR-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mx8b_KnRJ39ZjPCMfpyR-8" value="&lt;div&gt;update route based on vuex data&lt;/div&gt;&lt;div&gt;&lt;span&gt;router.push if new location param or not in stay&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;router.replace if only date / occupancy param&lt;/div&gt;&lt;div&gt;or should do nothing if vuex already align with router&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;event: search button click&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="490" width="330" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Mx8b_KnRJ39ZjPCMfpyR-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mx8b_KnRJ39ZjPCMfpyR-10" target="Mx8b_KnRJ39ZjPCMfpyR-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Mx8b_KnRJ39ZjPCMfpyR-10" value="edge case?: router param at mounted not align with vuex, update vuex with router params&lt;br&gt;&lt;br&gt;&lt;b&gt;event: mounted in stay/:location&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="750" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mx8b_KnRJ39ZjPCMfpyR-14" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Mx8b_KnRJ39ZjPCMfpyR-2" target="Mx8b_KnRJ39ZjPCMfpyR-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="460" as="sourcePoint" />
+            <mxPoint x="580" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mx8b_KnRJ39ZjPCMfpyR-15" value="uvaInitParamStaySearch ()&lt;br&gt;or methods initParamStaySearch() in default.vue" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="305" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Mx8b_KnRJ39ZjPCMfpyR-17" value="uvaSyncParamStaySearch()&lt;br&gt;or maybe syncParamStaySearch()&amp;nbsp;methods in stay/:location" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="846" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Mx8b_KnRJ39ZjPCMfpyR-18" value="update vuex from router params&lt;br&gt;&lt;br&gt;&lt;b&gt;event: watch $route in stay/:location&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="750" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Mx8b_KnRJ39ZjPCMfpyR-20" value="" style="endArrow=classic;html=1;entryX=0.455;entryY=0.995;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Mx8b_KnRJ39ZjPCMfpyR-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="750" as="sourcePoint" />
+            <mxPoint x="260" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mx8b_KnRJ39ZjPCMfpyR-22" value="router.resolve(this.storeParamRoute).href !==&amp;nbsp; router.fullpath ?&lt;br&gt;commit vuex : nothing&lt;br&gt;&lt;br&gt;will run async with initParamStaySearch? No, mounted in default will run first. since they are synchronous&lt;br&gt;&lt;br&gt;consider put this in initParamStaySearch in default.vue to make initialization in one place? but will not run in case of routed to this page by router" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="846" width="280" height="194" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
