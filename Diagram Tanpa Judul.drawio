@@ -1,1 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T09:58:05.535Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="gyFbHYzFjM-iwTKH0keO" version="20.5.1" type="github"><diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">7Vzbcps6FP0aP3YGJK6PxzlJ+5DOdCadnmcFFMMpRh4s13G/viJIBiMby5cgpVZeYm0JAXst9l66wATezV8/V2iRfSUpLibASV8n8N8JAK7nROxfbdk0ltDjhlmVp7xRa3jKf2NudLh1lad4udOQElLQfLFrTEhZ4oTu2FBVkfVusxdS7J51gWZYMjwlqJCt/+UpzbjVdZy24gvOZxk/deTzimeU/JxVZFXy85WkxE3NHIlueNNlhlKy7pjg/QTeVYTQ5tf89Q4XtVuFx5rjHg7Ubi+5wiVVOSAMcZDE4YsbBymKIviJ9/ALFSvuhm/M5/xi6Ub4ZrnO5wVitwWnGZ0XzOiyn0mWF+kj2pBVffIlZX4QpSkrVZSDzC4KTt8chOvrqEtbR9SFAj3jYrr14h0pSMWq3vxY91SRn1tI6vO+kJI+oHle1Ez7gasUlYib+RkjVkRFPivZ74T5BrP+prKzxN3jiuLXjok77zMmc0yrDWvCa0OOI6e4x4vrli9xwG1ZhyqhoAriHJ1te27BYj84XorYAQm7xxoi4LiK+EkYyR46SJjjLuM+ArKP3L0+gu/ho0jykeSblpi1T9ZZTvHTAiV17ZpFup7LjODtQSooExnsEjnwZZCcPSAF74FRbDFSwcj1dYIksrRFqYcS3EXJD/bEu9FQAoEECk6ZyuFFUtGMzEiJivvWOt2FrQPRMVRY9vinFl4920NeX3CT5jsZxmdlXKbiiKRAy2WefM/ysqngh7lNqXPQ/5jSDS+jFSXM1N7IIyGLbTo7hybKKW9JVlWCh/MMu90ZPtgP76hGZJBZFS4QzX/t6tLr8iS0PNHCE8GBQaLE1+bJ26HMoWjTabAgeUmXnZ6/1YZO+vH255+HA+3DwebsR3MBLWG3d3ImhyPLYS0cjlViHTAm1okEbXkydqyDOmLd+TyRh82WJ6PwJPhYPJEHPpYnY/BEjIc/gnbqTa/EvWnZ4eYwHG4eDja/vtKC0DLe3Azq+uaExtgSxdzQCKAxRPGsJtdEFJWIAjxdRHGd8BmFAfYwhP5LHH+ymlxT5glVMk9kDE+sJtcUT4AKT64eT84S5UHQU+XusMzut/f94faeM9j+Yl0ukd7KcnGVEwCdt7+zH4emuK+/UZ8UbdMcErm8myeXyRHVuYmIGo0cUH3LeT1qU2X4ev3YeBbne5wMjomC+ML27jtz3u4Y0cR5z2g9IM/tNX3Ku03loZeO3aaitpdh9O4+Fbs9/vZNc/BUmGA/KMoojbZnzjtEbHl4pZHYEBhFbHAbxPZOhsmoPbtyzJZRysj8ebU8jpCJ729cjldvj9u+Nzqi0eCSI5F9qPY8VJq3WNs1zusLZjHZNCiYlSZGzFnj9A/pCnlmTaOu8CKjdIXstL8yBPqnwgSP56kRdUVwa7riZLx6ugLueazG0xWhfahUHqrt+p2eh+pGXoO8FCXN6k/lNUgb+rpzOzqHVNCuYhqyRC6W1gYVPm80rPC5+DBA4UO7Xnj9oaASUVTeGBGyxwSi2EU2TURReVdR5HQDiCIPrPicgRxpNM4ZBP1ZU71zBjfyjZfgVJiMGt6AG1kKvRilSCtKwKL0AQahKut6FqW9Q8/xUIL2GyvXF31CSA+KPpWP8Yh8ZIDog/ZDJnqIsv3M6CBRgDFEkefx+ehAHl5qHB1EjkmjA3AjmyrCU2EaMVeyYvuJ22bPcvsJYXj/Bw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-25T10:24:09.480Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="6p5vRYcLBnxmAPfZUKs0" version="20.5.1" type="github">
+  <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
+    <mxGraphModel dx="964" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iIzhdWrlAodf3DmETpUd-10" value="User click sign in with google button in sign in page" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Courier New;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="137" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iIzhdWrlAodf3DmETpUd-11" value="Client Decode JWT to get email" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Courier New;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="310" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iIzhdWrlAodf3DmETpUd-12" value="Client call auth/client-is-registered" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Courier New;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="385" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iIzhdWrlAodf3DmETpUd-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Courier New;fontSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIzhdWrlAodf3DmETpUd-11" target="iIzhdWrlAodf3DmETpUd-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="289.43" as="sourcePoint" />
+            <mxPoint x="290" y="289.43" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIzhdWrlAodf3DmETpUd-14" value="is client registered" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Courier New;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="100" y="470" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iIzhdWrlAodf3DmETpUd-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Courier New;fontSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iIzhdWrlAodf3DmETpUd-12" target="iIzhdWrlAodf3DmETpUd-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="384.71" as="sourcePoint" />
+            <mxPoint x="70" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIzhdWrlAodf3DmETpUd-16" value="call api&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&#39;/auth/access-token&#39;,&lt;/span&gt;&lt;div&gt;payload:&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;{ provider: { google: googleResponse } }&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Courier New;fontSize=8;align=left;" vertex="1" parent="1">
+          <mxGeometry x="65" y="575" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iIzhdWrlAodf3DmETpUd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Courier New;fontSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIzhdWrlAodf3DmETpUd-14" target="iIzhdWrlAodf3DmETpUd-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="550" as="sourcePoint" />
+            <mxPoint x="80" y="501" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIzhdWrlAodf3DmETpUd-18" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="190" y="475" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iIzhdWrlAodf3DmETpUd-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Courier New;fontSize=8" edge="1" parent="1" source="iIzhdWrlAodf3DmETpUd-10" target="iIzhdWrlAodf3DmETpUd-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iIzhdWrlAodf3DmETpUd-21" value="Google send response to client contain JWT" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Courier New;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="220" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iIzhdWrlAodf3DmETpUd-22" value="&lt;span style=&quot;&quot;&gt;call api&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&#39;/auth/access-token&#39;,&lt;/span&gt;&lt;div style=&quot;&quot;&gt;payload:&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;br&gt;{ provider: { google: googleResponse } }&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Courier New;fontSize=8;align=left;" vertex="1" parent="1">
+          <mxGeometry x="270" y="470" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iIzhdWrlAodf3DmETpUd-23" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Courier New;fontSize=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.022;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iIzhdWrlAodf3DmETpUd-14" target="iIzhdWrlAodf3DmETpUd-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="480" as="sourcePoint" />
+            <mxPoint x="80" y="505" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIzhdWrlAodf3DmETpUd-24" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Courier New;fontSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iIzhdWrlAodf3DmETpUd-21" target="iIzhdWrlAodf3DmETpUd-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="215" as="sourcePoint" />
+            <mxPoint x="150" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIzhdWrlAodf3DmETpUd-25" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="130" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iIzhdWrlAodf3DmETpUd-41" value="Client received access token cookie" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Courier New;fontSize=8;align=left;" vertex="1" parent="1">
+          <mxGeometry x="90" y="670" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iIzhdWrlAodf3DmETpUd-42" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Courier New;fontSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIzhdWrlAodf3DmETpUd-16" target="iIzhdWrlAodf3DmETpUd-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="540" as="sourcePoint" />
+            <mxPoint x="150" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIzhdWrlAodf3DmETpUd-43" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Courier New;fontSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iIzhdWrlAodf3DmETpUd-22" target="iIzhdWrlAodf3DmETpUd-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="645" as="sourcePoint" />
+            <mxPoint x="150" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIzhdWrlAodf3DmETpUd-44" value="User click sign up with google button in register page" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Courier New;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="137" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iIzhdWrlAodf3DmETpUd-53" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Courier New;fontSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iIzhdWrlAodf3DmETpUd-44" target="iIzhdWrlAodf3DmETpUd-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iIzhdWrlAodf3DmETpUd-66" value="User click google sign in prompt" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Courier New;fontSize=8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="420" y="137" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iIzhdWrlAodf3DmETpUd-67" style="edgeStyle=orthogonalEdgeStyle;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Courier New;fontSize=8;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iIzhdWrlAodf3DmETpUd-66" target="iIzhdWrlAodf3DmETpUd-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="185" as="sourcePoint" />
+            <mxPoint x="200" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iIzhdWrlAodf3DmETpUd-69" value="&lt;div style=&quot;font-size: 7px;&quot;&gt;googleResponse Object:&lt;/div&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;{&lt;/div&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;clientId&quot;: &quot;996478769136-01ev5s9l3suq9lj1qqbn7fh4uv942omc.apps.googleusercontent.com&quot;,&lt;/div&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;credential&quot;: &quot;eyJhbGciOiJSUzI1NiIsImtpZCI6ImVlMWI5Zjg4Y2ZlMzE1MWRkZDI4NGE2MWJmOGNlY2Y2NTliMTMwY2YiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJuYmYiOjE2NjY2OTI4OTAsImF1ZCI6Ijk5NjQ3ODc2OTEzNi0wMWV2NXM5bDNzdXE5bGoxcXFibjdmaDR1djk0Mm9tYy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjExMjM2MTkyMTE5NzkyNjI3NjY5MCIsImVtYWlsIjoidGVzdG15aXo5NUBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiYXpwIjoiOTk2NDc4NzY5MTM2LTAxZXY1czlsM3N1cTlsajFxcWJuN2ZoNHV2OTQyb21jLmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwibmFtZSI6Ikl2YW4gWnVsZmlrYXIiLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUxtNXd1MEhrdVJ4eDBJZ3Iyamo4WGg4S2tvRFJ0TzdROVJlNVdxMzhnUzk9czk2LWMiLCJnaXZlbl9uYW1lIjoiSXZhbiIsImZhbWlseV9uYW1lIjoiWnVsZmlrYXIiLCJpYXQiOjE2NjY2OTMxOTAsImV4cCI6MTY2NjY5Njc5MCwianRpIjoiMTlkZjI4ZmEwYjM2Zjg5NjIwZDg1ZWRhMjQ4Yjc0NmJhZmQ3MzE4OCJ9.l7niGvh40XAFcxMEI4wID3WxzclPGpVL6kiLe-Ec9rtWOctbYAp3fEoKwbg1jtRiyeChNMjThk_Vish-aJJ6qI6FJfBTgh6I25N9OwBNVu57lZ8SpiGfkUfl1AqrfyaiJ2Ng5EYI_3-376jM6Kp6ZDiAlNHm1MITpLet4JVo_QRSD_teRG0s396NMT_JycyrWevY14ZbO9la1eG8Y3QsPI6CLxSX3BtFq9EWIaQ0cvflsCx6ECUGnQnJGLtBqF5lkNX3QkHoTf27QYEUhFWsxJVYkIySpBOh_HoARjNm-b66vr1TFiLk9AVe1pKa4UGPfBrrHY2PsUT4NYu7jIHGDQ&quot;,&lt;/div&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;select_by&quot;: &quot;btn&quot;&lt;/div&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;}&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontFamily=Courier New;fontSize=7;" vertex="1" parent="1">
+          <mxGeometry x="440" y="340" width="300" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iIzhdWrlAodf3DmETpUd-70" value="Decoded googleResponse.credential&lt;br&gt;{&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;iss&quot;: &quot;https://accounts.google.com&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;nbf&quot;: 1666692890,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;aud&quot;: &quot;996478769136-01ev5s9l3suq9lj1qqbn7fh4uv942omc.apps.googleusercontent.com&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;sub&quot;: &quot;112361921197926276690&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;email&quot;: &quot;testmyiz95@gmail.com&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;email_verified&quot;: true,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;azp&quot;: &quot;996478769136-01ev5s9l3suq9lj1qqbn7fh4uv942omc.apps.googleusercontent.com&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;name&quot;: &quot;Ivan Zulfikar&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;picture&quot;: &quot;https://lh3.googleusercontent.com/a/ALm5wu0HkuRxx0Igr2jj8Xh8KkoDRtO7Q9Re5Wq38gS9=s96-c&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;given_name&quot;: &quot;Ivan&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;family_name&quot;: &quot;Zulfikar&quot;,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;iat&quot;: 1666693190,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;exp&quot;: 1666696790,&lt;br&gt;&amp;nbsp; &amp;nbsp; &quot;jti&quot;: &quot;19df28fa0b36f89620d85eda248b746bafd73188&quot;&lt;br&gt;}" style="text;whiteSpace=wrap;html=1;fontSize=7;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="440" y="425" width="470" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
