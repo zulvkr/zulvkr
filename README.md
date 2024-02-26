@@ -1,6 +1,3 @@
 ### Hi there 👋
 
-I am Zul. Web developer. Deals with Javascript codebase mostly.
-
-Current learning interest:
-1. C#
+I am Ivan. Front End Dev with experience in React and Vue in web and mobile
